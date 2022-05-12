@@ -1,0 +1,4 @@
+baseURL = 'narissara.lol/journal'
+languageCode = 'en-us'
+title = 'Journal'
+theme = "PaperMod"
