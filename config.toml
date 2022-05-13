@@ -1,4 +1,4 @@
-baseURL = 'narissara.lol/journal'
+baseURL = 'narissara.github.io/journal'
 languageCode = 'en-us'
 title = 'Journal'
 theme = "PaperMod"
